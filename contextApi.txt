@@ -1,1 +1,2 @@
 const userContext = useContext();
+const contextNavbar;
