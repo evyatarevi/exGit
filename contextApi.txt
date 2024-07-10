@@ -2,3 +2,4 @@ const userContext = useContext();
 
 
 const contextHome;
+const contextNavbar;
